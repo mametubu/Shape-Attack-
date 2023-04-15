@@ -2,17 +2,17 @@
 
 >**フォルダについて**
 
-/Asset/MyAssetsの中にゲーム開発で使用するスクリプトや音楽入れる 
-/MyAssetsの中には 
-/Fonts(テキストのフォントをいれる) 
-/Musics(この中には/BGMs,/SEsがある) 
-/BGMs(ゲームで使用するBGMをいれる) 
-/SEs(ゲームで使用する効果音などをいれる) 
-/Prefabs(Prefabをいれる) 
-/Scenes(各々のシーンやゲームで使用するシーンをいれる) 
-/Scripts(スクリプトをいれる) 
-/Sprites(画像などをいれる) 
-/DownLoadAssets(入れてるだけで使用できるアセットをいれる。例えばDOTWeen等) 
+/Asset/MyAssetsの中にゲーム開発で使用するスクリプトや音楽入れる  
+/MyAssetsの中には  
+/Fonts(テキストのフォントをいれる)  
+/Musics(この中には/BGMs,/SEsがある)  
+/BGMs(ゲームで使用するBGMをいれる)  
+/SEs(ゲームで使用する効果音などをいれる)  
+/Prefabs(Prefabをいれる)  
+/Scenes(各々のシーンやゲームで使用するシーンをいれる)  
+/Scripts(スクリプトをいれる)  
+/Sprites(画像などをいれる)  
+/DownLoadAssets(入れてるだけで使用できるアセットをいれる。例えばDOTWeen等)  
 がある。必要に応じて新しいファイルを作成する。 
 
 >**コーディングルール**
